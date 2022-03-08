@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "powered=false": { "model": "howlingmoon_rebooted:block/dried_oak_pressure_plate" },
+    "powered=true": { "model": "howlingmoon_rebooted:block/dried_oak_pressure_plate_down" }
+  }
+}

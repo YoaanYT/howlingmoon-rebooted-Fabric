@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "silver_ingot",
+  "ingredients": [
+    {
+      "item": "howlingmoon_rebooted:silver_block"
+    }
+  ],
+  "result": {
+    "item": "howlingmoon_rebooted:silver_ingot",
+    "count": 9
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "howlingmoon_rebooted:block/dried_oak_slab"
+    },
+    "type=double": {
+      "model": "howlingmoon_rebooted:block/dried_oak_planks"
+    },
+    "type=top": {
+      "model": "howlingmoon_rebooted:block/dried_oak_slab_top"
+    }
+  }
+}

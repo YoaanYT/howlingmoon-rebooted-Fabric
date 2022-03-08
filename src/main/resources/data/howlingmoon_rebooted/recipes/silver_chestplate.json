@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X X",
+    "XXX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "howlingmoon_rebooted:silver_ingot"
+    }
+  },
+  "result": {
+    "item": "howlingmoon_rebooted:silver_chestplate"
+  }
+}

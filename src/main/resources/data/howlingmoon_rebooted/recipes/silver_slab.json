@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dried_oak_slab",
+  "pattern": [
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "howlingmoon_rebooted:dried_oak_planks"
+    }
+  },
+  "result": {
+    "item": "howlingmoon_rebooted:dried_oak_slab",
+    "count": 6
+  }
+}

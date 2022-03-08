@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/leaves",
+  "textures": {
+    "all": "howlingmoon_rebooted:block/dried_oak_leaves"
+  }
+}

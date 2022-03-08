@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "howlingmoon_rebooted:block/stairs",
+    "top": "howlingmoon_rebooted:block/stairs",
+    "side": "howlingmoon_rebooted:block/stairs"
+  }
+}

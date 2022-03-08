@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "howlingmoon_rebooted:dried_oak_log",
+    "howlingmoon_rebooted:dried_oak_wood",
+    "howlingmoon_rebooted:stripped_dried_oak_log",
+    "howlingmoon_rebooted:stripped_dried_oak_wood",
+    "howlingmoon_rebooted:dried_oak_planks",
+    "howlingmoon_rebooted:dried_oak_door",
+    "howlingmoon_rebooted:dried_oak_trapdoor",
+    "howlingmoon_rebooted:dried_oak_pressure_plate",
+    "howlingmoon_rebooted:dried_oak_stairs",
+    "howlingmoon_rebooted:dried_oak_slab",
+    "howlingmoon_rebooted:dried_oak_fence",
+    "howlingmoon_rebooted:dried_oak_fence_gate"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "block/button_inventory",
+  "textures": {
+    "texture": "howlingmoon_rebooted:block/silver_block"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "bark",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "howlingmoon_rebooted:dried_oak_log"
+    }
+  },
+  "result": {
+    "item": "howlingmoon_rebooted:dried_oak_wood",
+    "count": 3
+  }
+}

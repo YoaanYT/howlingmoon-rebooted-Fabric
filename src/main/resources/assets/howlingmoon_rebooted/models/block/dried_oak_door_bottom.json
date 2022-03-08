@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/door_bottom",
+  "textures": {
+    "top": "howlingmoon_rebooted:block/dried_oak_door_top",
+    "bottom": "howlingmoon_rebooted:block/dried_oak_door_bottom"
+  }
+}

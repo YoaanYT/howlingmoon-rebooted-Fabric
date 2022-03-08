@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "howlingmoon_rebooted:block/stripped_dried_oak_wood",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "howlingmoon_rebooted:block/stripped_dried_oak_wood"
+    },
+    "axis=z": {
+      "model": "howlingmoon_rebooted:block/stripped_dried_oak_wood",
+      "x": 90
+    }
+  }
+}

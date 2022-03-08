@@ -1,0 +1,32 @@
+{
+  "cobalt_lamp_break": {
+    "subtitle": "howlingmoon_rebooted.deepslate_silver_ore_break",
+    "sounds": [
+      "minecraft:deepslate_break"
+    ]
+  },
+  "cobalt_lamp_step": {
+    "subtitle": "howlingmoon_rebooted.deepslate_silver_ore_step",
+    "sounds": [
+      "minecraft:deepslate_step"
+    ]
+  },
+  "cobalt_lamp_place": {
+    "subtitle": "howlingmoon_rebooted.deepslate_silver_ore_place",
+    "sounds": [
+      "minecraft:deepslate_place"
+    ]
+  },
+  "cobalt_lamp_hit": {
+    "subtitle": "howlingmoon_rebooted.deepslate_silver_ore_hit",
+    "sounds": [
+      "minecraft:deepslate_hit"
+    ]
+  },
+  "cobalt_lamp_fall": {
+    "subtitle": "howlingmoon_rebooted.deepslate_silver_ore_fall",
+    "sounds": [
+      "minecraft:deepslate_fall"
+    ]
+  }
+}

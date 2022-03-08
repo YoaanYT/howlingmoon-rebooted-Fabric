@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "howlingmoon_rebooted:raw_silver_block",
+    "howlingmoon_rebooted:silver_block",
+    "howlingmoon_rebooted:silver_ore",
+    "howlingmoon_rebooted:deepslate_silver_ore",
+    "howlingmoon_rebooted:silver_slab",
+    "howlingmoon_rebooted:silver_door",
+    "howlingmoon_rebooted:silver_fence_gate",
+    "howlingmoon_rebooted:silver_fence",
+    "howlingmoon_rebooted:silver_stairs",
+    "howlingmoon_rebooted:silver_wall"
+  ]
+}

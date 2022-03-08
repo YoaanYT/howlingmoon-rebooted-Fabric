@@ -1,0 +1,6 @@
+{
+  "parent": "block/pressure_plate_down",
+  "textures": {
+    "texture": "howlingmoon_rebooted:block/dried_oak_planks"
+  }
+}

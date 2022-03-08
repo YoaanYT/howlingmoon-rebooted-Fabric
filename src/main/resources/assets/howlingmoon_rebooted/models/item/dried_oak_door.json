@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "howlingmoon_rebooted:item/dried_oak_door"
+  }
+}

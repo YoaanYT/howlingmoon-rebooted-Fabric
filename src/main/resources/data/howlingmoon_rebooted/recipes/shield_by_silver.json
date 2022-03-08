@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WoW",
+    "WWW",
+    " W "
+  ],
+  "key": {
+    "W": {
+      "tag": "minecraft:planks"
+    },
+    "o": {
+      "item": "howlingmoon_rebooted:silver_ingot"
+    }
+  },
+  "result": {
+    "item": "howlingmoon_rebooted:shield"
+  }
+}

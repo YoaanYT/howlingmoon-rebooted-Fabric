@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "howlingmoon_rebooted:block/silver_slab"
+    },
+    "type=double": {
+      "model": "howlingmoon_rebooted:block/silver_block"
+    },
+    "type=top": {
+      "model": "howlingmoon_rebooted:block/silver_slab_top"
+    }
+  }
+}

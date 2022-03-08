@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "howlingmoon_rebooted:raw_silver"
+    }
+  },
+  "result": {
+    "item": "howlingmoon_rebooted:raw_silver_block"
+  }
+}

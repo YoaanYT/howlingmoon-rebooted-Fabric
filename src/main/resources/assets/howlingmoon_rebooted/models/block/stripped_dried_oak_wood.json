@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "howlingmoon_rebooted:block/stripped_dried_oak_log",
+    "side": "howlingmoon_rebooted:block/stripped_dried_oak_log"
+  }
+}

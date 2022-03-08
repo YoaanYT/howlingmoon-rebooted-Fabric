@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "group": "silver_ingot",
+  "ingredient": {
+    "item": "howlingmoon_rebooted:silver_ore"
+  },
+  "result": "howlingmoon_rebooted:silver_ingot",
+  "experience": 0.7,
+  "cookingtime": 200
+}

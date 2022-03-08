@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "group": "silver_block",
+  "ingredient": {
+    "item": "howlingmoon_rebooted:raw_silver_block"
+  },
+  "result": "howlingmoon_rebooted:silver_block",
+  "experience": 0.7,
+  "cookingtime": 200
+}
