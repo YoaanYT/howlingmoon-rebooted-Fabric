@@ -38,8 +38,11 @@ public class ModConfiguredFeatures {
             OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.SILVER_ORE.getDefaultState()),
             OreFeatureConfig.createTarget(OreConfiguredFeatures.DEEPSLATE_ORE_REPLACEABLES, ModBlocks.DEEPSLATE_SILVER_ORE.getDefaultState()));
 
+
     public static final ConfiguredFeature<?, ?> SILVER_ORE = register("silver_ore",
             Feature.ORE.configure(new OreFeatureConfig(OVERWORLD_SILVER_ORES, 9)));
+
+
 
 
 
