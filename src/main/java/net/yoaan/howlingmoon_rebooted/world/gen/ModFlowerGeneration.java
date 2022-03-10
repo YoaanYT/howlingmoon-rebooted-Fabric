@@ -10,5 +10,7 @@ public class ModFlowerGeneration {
     public static void generateFlowers() {
         BiomeModifications.addFeature(BiomeSelectors.categories(Biome.Category.PLAINS),
                 GenerationStep.Feature.VEGETAL_DECORATION, ModPlacedFeatures.WOLFSBANE_PLACED.getKey().get());
+        BiomeModifications.addFeature(BiomeSelectors.categories(Biome.Category.PLAINS),
+                GenerationStep.Feature.VEGETAL_DECORATION, ModPlacedFeatures.HUNTER_BANNER_PLACED.getKey().get());
     }
 }
