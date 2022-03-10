@@ -9,6 +9,6 @@ import net.yoaan.howlingmoon_rebooted.world.feature.ModPlacedFeatures;
 public class ModFlowerGeneration {
     public static void generateFlowers() {
         BiomeModifications.addFeature(BiomeSelectors.categories(Biome.Category.PLAINS),
-                GenerationStep.Feature.VEGETAL_DECORATION, ModPlacedFeatures.WOLFSBANE_PLACED_KEY);
+                GenerationStep.Feature.VEGETAL_DECORATION, ModPlacedFeatures.WOLFSBANE_PLACED.getKey().get());
     }
 }

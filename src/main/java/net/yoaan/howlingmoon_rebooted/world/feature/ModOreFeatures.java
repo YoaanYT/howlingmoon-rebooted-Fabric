@@ -1,9 +1,6 @@
 package net.yoaan.howlingmoon_rebooted.world.feature;
 
-import net.minecraft.world.gen.decorator.BiomePlacementModifier;
-import net.minecraft.world.gen.decorator.CountPlacementModifier;
-import net.minecraft.world.gen.decorator.PlacementModifier;
-import net.minecraft.world.gen.decorator.SquarePlacementModifier;
+import net.minecraft.world.gen.placementmodifier.*;
 
 import java.util.List;
 
@@ -14,5 +11,9 @@ public class ModOreFeatures {
 
     public static List<PlacementModifier> modifiersWithCount(int count, PlacementModifier heightModifier) {
         return modifiers(CountPlacementModifier.of(count), heightModifier);
+    }
+
+    public static List<PlacementModifier> modifiersWithRarity(int chance, PlacementModifier heightModifier) {
+        return modifiers(RarityFilterPlacementModifier.of(chance), heightModifier);
     }
 }

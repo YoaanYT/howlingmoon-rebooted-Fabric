@@ -9,6 +9,7 @@ import net.yoaan.howlingmoon_rebooted.world.feature.ModConfiguredFeatures;
 import net.yoaan.howlingmoon_rebooted.world.gen.ModWorldGen;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+import software.bernie.geckolib3.GeckoLib;
 
 public class howlingmoon_rebooted implements ModInitializer {
 
@@ -24,6 +25,8 @@ public class howlingmoon_rebooted implements ModInitializer {
 		ModBlocks.registerModBlocks();
 
 		ModRegistries.registerModStuffs();
+
+		GeckoLib.initialize();
 
 		ModWorldGen.generateModWorldGen();
 	}
