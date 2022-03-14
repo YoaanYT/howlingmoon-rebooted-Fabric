@@ -47,8 +47,8 @@
   "block.howlingmoon_rebooted.dried_oak_fence": "dried oak fence",
   "block.howlingmoon_rebooted.dried_oak_fence_gate": "dried oak fence gate",
   "block.howlingmoon_rebooted.dried_oak_pressure_plate": "dried oak pressure plate",
-  "block.howlingmoon_rebooted.werewolf_spawn_egg": "werewolf spawn egg",
+  "item.howlingmoon_rebooted.werewolf_spawn_egg": "werewolf spawn egg",
 
 
-  "itemGroup.howlingmoonrebootedtab": "Howlingmoon Rebooted"
+  "itemGroup.howlingmoon_rebooted.howlingmoonrebootedtab": "Howlingmoon Rebooted"
 }

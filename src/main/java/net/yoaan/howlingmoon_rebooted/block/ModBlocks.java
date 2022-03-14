@@ -59,8 +59,7 @@ public class ModBlocks {
             new FenceGateBlock(FabricBlockSettings.of(Material.METAL).strength(3.5f).requiresTool()), ModItemGroups.HOWLINGMOONREBOOTEDTAB);
 
     public static final Block HUNTER_BANNER = registerBlock("hunter_banner",
-            new FlowerBlock(StatusEffects.REGENERATION, 8,
-                    FabricBlockSettings.copy(Blocks.POPPY)), ModItemGroups.HOWLINGMOONREBOOTEDTAB);
+            new Block(FabricBlockSettings.of(Material.WOOD).strength(1.5f).requiresTool()), ModItemGroups.HOWLINGMOONREBOOTEDTAB);
 
     public static final Block WOLFSBANE = registerBlock("wolfsbane",
             new FlowerBlock(StatusEffects.REGENERATION, 8,

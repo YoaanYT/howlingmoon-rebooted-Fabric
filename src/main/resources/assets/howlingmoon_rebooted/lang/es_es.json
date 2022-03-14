@@ -36,7 +36,8 @@
   "block.howlingmoon_rebooted.dried_oak_wood": "leño seco",
   "block.howlingmoon_rebooted.stripped_dried_oak_log": "tronco seco sin corteza",
   "block.howlingmoon_rebooted.stripped_dried_oak_wood": "leño seco sin corteza",
+  "item.howlingmoon_rebooted.werewolf_spawn_egg": "werewolf spawn egg",
 
 
-  "itemGroup.howlingmoonrebootedtab": "Howlingmoon Rebooted"
+  "itemGroup.howlingmoon_rebooted.howlingmoonrebootedtab": "Howlingmoon Rebooted"
 }
