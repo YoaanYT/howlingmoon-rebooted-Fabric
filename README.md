@@ -7,18 +7,25 @@ is programed it is programmed in INTELLIJ IDEA comunity edition (i dont know ano
 I am programming the mod from 0
 
 versions: 1.18.2,1.18.1
+
 client: fabric
+
 needs: geckolib and fabric api
 
 backports: not in plans (for now)
 
 en_us: 100%
+
 es_es: 100%
+
 es_mx: 100%
 
 credits: YoaanYT(creator), shimonsolo and owlder
+
 web pag credits: yoaanYT, shimonsolo and owlder
+
 textures: owlder
+
 code: YoaanYT
 
 if you have this version of the mod: howlingmoon rebooted 0.9.2.3 and update to 0.9.3.x all items and block they will disappear 
