@@ -15,7 +15,9 @@ needs: geckolib and fabric api
 backports: not in plans (for now)
 
 en_us: 100%
+
 es_es: 100%
+
 es_mx: 100%
 
 credits: YoaanYT(creator), shimonsolo and owlder
