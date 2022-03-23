@@ -8,7 +8,7 @@ import net.yoaan.howlingmoon_rebooted.world.feature.ModPlacedFeatures;
 
 public class ModTreeGeneration {
     public static void generateTrees() {
-        BiomeModifications.addFeature(BiomeSelectors.categories(Biome.Category.PLAINS),
+        BiomeModifications.addFeature(BiomeSelectors.categories(Biome.Category.FOREST),
                 GenerationStep.Feature.VEGETAL_DECORATION, ModPlacedFeatures.DRIED_OAK_PLACED.getKey().get());
 
     }

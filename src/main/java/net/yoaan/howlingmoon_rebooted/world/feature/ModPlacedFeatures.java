@@ -19,13 +19,7 @@ public class ModPlacedFeatures {
             ModConfiguredFeatures.WOLFSBANE_FLOWER, RarityFilterPlacementModifier.of(4), SquarePlacementModifier.of(),
             PlacedFeatures.MOTION_BLOCKING_HEIGHTMAP, BiomePlacementModifier.of());
 
-    public static final RegistryEntry<PlacedFeature> HUNTER_BANNER_PLACED = PlacedFeatures.register("hunter_banner_placed",
-            ModConfiguredFeatures.HUNTER_BANNER_FLOWER, RarityFilterPlacementModifier.of(4), SquarePlacementModifier.of(),
-            PlacedFeatures.MOTION_BLOCKING_HEIGHTMAP, BiomePlacementModifier.of());
-
     public static final RegistryEntry<PlacedFeature> SILVER_ORE_PLACED = PlacedFeatures.register("silver_ore_placed",
             ModConfiguredFeatures.SILVER_ORE, ModOreFeatures.modifiersWithCount(7,
-                    HeightRangePlacementModifier.trapezoid(YOffset.aboveBottom(-180), YOffset.aboveBottom(180))));
-
-
+                    HeightRangePlacementModifier.trapezoid(YOffset.aboveBottom(-80), YOffset.aboveBottom(80))));
 }

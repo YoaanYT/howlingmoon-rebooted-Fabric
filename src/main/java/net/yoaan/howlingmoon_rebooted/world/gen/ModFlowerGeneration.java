@@ -8,9 +8,7 @@ import net.yoaan.howlingmoon_rebooted.world.feature.ModPlacedFeatures;
 
 public class ModFlowerGeneration {
     public static void generateFlowers() {
-        BiomeModifications.addFeature(BiomeSelectors.categories(Biome.Category.PLAINS),
+        BiomeModifications.addFeature(BiomeSelectors.categories(Biome.Category.PLAINS, Biome.Category.FOREST),
                 GenerationStep.Feature.VEGETAL_DECORATION, ModPlacedFeatures.WOLFSBANE_PLACED.getKey().get());
-        BiomeModifications.addFeature(BiomeSelectors.categories(Biome.Category.PLAINS),
-                GenerationStep.Feature.VEGETAL_DECORATION, ModPlacedFeatures.HUNTER_BANNER_PLACED.getKey().get());
     }
 }

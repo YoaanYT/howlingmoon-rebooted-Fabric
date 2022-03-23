@@ -28,7 +28,7 @@ public class ModConfiguredFeatures {
                     PlacedFeatures.wouldSurvive(ModBlocks.DRIED_OAK_SAPLING));
 
     public static final RegistryEntry<ConfiguredFeature<RandomFeatureConfig, ?>> DRIED_OAK_SPAWN =
-            ConfiguredFeatures.register("jacaranda_spawn", Feature.RANDOM_SELECTOR,
+            ConfiguredFeatures.register("dried_oak_spawn", Feature.RANDOM_SELECTOR,
                     new RandomFeatureConfig(List.of(new RandomFeatureEntry(DRIED_OAK_CHECKED, 0.5f)),
                             DRIED_OAK_CHECKED));
 
@@ -37,12 +37,6 @@ public class ModConfiguredFeatures {
             ConfiguredFeatures.register("wolfsbane_flower", Feature.FLOWER,
                     ConfiguredFeatures.createRandomPatchFeatureConfig(64, PlacedFeatures.createEntry(Feature.SIMPLE_BLOCK,
                             new SimpleBlockFeatureConfig(BlockStateProvider.of(ModBlocks.WOLFSBANE)))));
-
-    public static final RegistryEntry<ConfiguredFeature<RandomPatchFeatureConfig, ?>> HUNTER_BANNER_FLOWER =
-            ConfiguredFeatures.register("hunter_banner_flower", Feature.FLOWER,
-                    ConfiguredFeatures.createRandomPatchFeatureConfig(64, PlacedFeatures.createEntry(Feature.SIMPLE_BLOCK,
-                            new SimpleBlockFeatureConfig(BlockStateProvider.of(ModBlocks.HUNTER_BANNER)))));
-
 
     public static final List<OreFeatureConfig.Target> OVERWORLD_SILVER_ORES = List.of(
             OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES,
