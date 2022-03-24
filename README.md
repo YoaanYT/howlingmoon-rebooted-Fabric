@@ -32,3 +32,5 @@ if you have this version of the mod: howlingmoon rebooted 0.9.2.3 and update to 
 because i change the code of howlingmoon: to howlingmoon_rebooted:
 
 if you want to help with the mod you can contact me in my youtube chanel or my twitter (@YoaanYT in twitter and YoaanMC in youtube)
+
+i speek spanish(my main language) and english
