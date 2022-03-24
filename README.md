@@ -31,6 +31,6 @@ code: YoaanYT
 if you have this version of the mod: howlingmoon rebooted 0.9.2.3 and update to 0.9.3.x all items and block they will disappear 
 because i change the code of howlingmoon: to howlingmoon_rebooted:
 
-if you want to help with the mod you can contact me in my youtube chanel or my twitter (@YoaanYT in twitter and YoaanMC in youtube)
+if you want to help with the mod you can contact me in my youtube chanel or my twitter (@YoaanYT in twitter and YoaanMC in youtube or in this github)
 
 i speek spanish(my main language) and english
