@@ -7,6 +7,7 @@ import net.minecraft.entity.EquipmentSlot;
 import net.minecraft.item.*;
 import net.minecraft.util.Identifier;
 import net.minecraft.util.registry.Registry;
+import net.yoaan.howlingmoon_rebooted.block.ModBlocks;
 import net.yoaan.howlingmoon_rebooted.entity.ModEntities;
 import net.yoaan.howlingmoon_rebooted.howlingmoon_rebooted;
 import net.yoaan.howlingmoon_rebooted.item.custom.*;
@@ -72,6 +73,10 @@ public class ModItems {
     public static final Item WEREWOLF_SPAWN_EGG = registerItem("werewolf_spawn_egg",
             new SpawnEggItem(ModEntities.WEREWOLF,0xFFFFFF, 0x111111,
                     new FabricItemSettings().group(ModItemGroups.HOWLINGMOONREBOOTEDTAB)));
+
+    public static final Item DRIED_OAK_SIGN = registerItem("dried_oak_sign",
+            new SignItem(new FabricItemSettings().group(ModItemGroups.HOWLINGMOONREBOOTEDTAB).maxCount(16),
+                    ModBlocks.DRIED_OAK_SIGN_BLOCK, ModBlocks.DRIED_OAK_WALL_SIGN_BLOCK));
 
 
 

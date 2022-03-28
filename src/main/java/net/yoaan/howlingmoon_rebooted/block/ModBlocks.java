@@ -116,6 +116,12 @@ public class ModBlocks {
             new ModPressurePlateBlock(PressurePlateBlock.ActivationRule.EVERYTHING,
                     FabricBlockSettings.of(Material.WOOD).strength(0.2f).requiresTool()), ModItemGroups.HOWLINGMOONREBOOTEDTAB);
 
+    public static final Block DRIED_OAK_WALL_SIGN_BLOCK = registerBlockWithoutBlockItem("dried_oak_wall_sign",
+            new WallSignBlock(FabricBlockSettings.copy(Blocks.OAK_PLANKS), ModSignTypes.DRIED_OAK));
+
+    public static final Block DRIED_OAK_SIGN_BLOCK = registerBlockWithoutBlockItem("dried_oak_sign",
+            new SignBlock(FabricBlockSettings.copy(Blocks.OAK_PLANKS), ModSignTypes.DRIED_OAK));
+
 
     private static Block registerBlockWithoutBlockItem(String name, Block block) {
         return Registry.register(Registry.BLOCK, new Identifier(howlingmoon_rebooted.MOD_ID, name), block);

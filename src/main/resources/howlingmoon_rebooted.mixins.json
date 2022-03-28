@@ -4,6 +4,9 @@
   "package": "net.yoaan.howlingmoon_rebooted.mixin",
   "compatibilityLevel": "JAVA_17",
   "mixins": [
+    "ModEntityDataSaver",
+    "SignTypeAccessor",
+    "BlockEntityTypeMixin"
   ],
   "client": [
     "ExampleMixin"
